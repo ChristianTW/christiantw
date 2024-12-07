@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there
 
 My name is Christian, and I'm a student majoring in Game Design and Animation: Programming side.
 
