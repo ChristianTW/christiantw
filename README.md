@@ -1,8 +1,9 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+My name is Christian, and I'm a student majoring in Game Design and Animation: Programming side.
+
+- I’m currently working on Blights Grasp
+- I’m currently learning Unity and pixel art
 
 <!--
 **ChristianTW/christiantw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
