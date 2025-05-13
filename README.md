@@ -2,7 +2,8 @@
 
 My name is Christian, and I'm a student majoring in Game Design and Animation: Programming side.
 
-- I’m currently working on Blights Grasp
+- I’m worked on the game Blights Grasp, available on Steam
+- I have a major in Game Development and a Minor in Mathematics
 - I’m currently learning Unity and pixel art
 
 <!--
